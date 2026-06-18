@@ -22,6 +22,3 @@ This project is a Tableau dashboard analyzing Adidas US sales performance across
 
 ## 🔗 Live Dashboard
 https://public.tableau.com/views/Book1_17817643183140/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-## 📷 Preview
-
